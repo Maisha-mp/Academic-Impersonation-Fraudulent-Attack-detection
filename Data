@@ -1,1 +1,6 @@
+Two seperate datasets:
+1. Scholarship+ Internship Sheet: In this sheet, a total of 840 samples 
+(210 legitimate scholarship, 210 fraudulent scholarship, 210 legitimate internship, 210 fraudulent internship) samples were manually collected.
 
+2. Journal Sheet: In this sheet, a total of 400 journal samples (200 legitimate journal samples and 200 predatory journal samples) were manually collected. 
+All samples included metadata: journal name, ISSN/ eISSN, publisher, country, DOAJ indexed and Scopus indexed status.
