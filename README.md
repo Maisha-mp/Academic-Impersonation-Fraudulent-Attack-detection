@@ -1,2 +1,5 @@
 # Academic-Impersonation-Fraudulent-Attack-detection
-Thesis and project..
+The objectives of this research based project primarily focus on building a unified text based academic fraudulent detection framework which can classify fraudulent and legitimate offer texts for scholarship and internships and journal titles for journal domain. 
+This work emphasizes curating a complete dataset for the multi-domain academic opportunities samples, preprocessing the dataset as foundation for future progress, extracting TF-IDF features along with running one baseline model, Logistic Regression (LR). Furthermore, in future progress, this work would also include two other models: Naive Bayes (NB) and Random Forest (RF) for evaluating a comparative approach against Logistic Regression (LR). 
+This would enable selecting the best model for the unified web based framework which would integrate the multi-domain: scholarship, internship and journals with domain appropriate models internally. Moreover, this unified approach would further be deployed online as a web accessible tool to resolve the issue of access for an average student without a paywall. 
+
