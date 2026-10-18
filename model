@@ -1,1 +1,4 @@
-
+Three Different ML models are used:
+1. LR (Logistic Regression)
+2. NB (Naive Bayes)
+3. RF (Random Forest)
